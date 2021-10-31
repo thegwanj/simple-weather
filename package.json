@@ -1,0 +1,23 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "Simple weather app for CSI 250",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegwanj/school.git"
+  },
+  "author": "Gwanju Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegwanj/school/issues"
+  },
+  "homepage": "https://github.com/thegwanj/school#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "yargs": "^17.2.1"
+  }
+}
